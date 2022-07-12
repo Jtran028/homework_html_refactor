@@ -51,4 +51,4 @@ All changes made have included comment lines.
 https://jtran028.github.io/homework_html_refactor/
 
 ## Screen Shot
-(https://user-images.githubusercontent.com/108315442/178410043-8590edc5-cfee-4c7e-b4e8-8f392b43d21f.png)
+<img src="https://user-images.githubusercontent.com/108315442/178410043-8590edc5-cfee-4c7e-b4e8-8f392b43d21f.png">
